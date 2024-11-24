@@ -10,6 +10,6 @@
 
 Настройки микросервиса в application.properties
 
-Frontend [estore-frontend] https://github.com/Apolones/estore-frontend
+Frontend [estore-frontend](https://github.com/Apolones/estore-frontend)
 
 Ps JUint тесты нужны, но не успел сделать. Для оценки можно посмотреть другие проекты на github, где они есть
